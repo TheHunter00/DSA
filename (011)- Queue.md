@@ -32,7 +32,18 @@ A queue follows the **First In, First Out (FIFO)** rule:
 3. **Customer Service:**  
    - Requests are handled in the order they are received.
 
+
 ---
+
+### **Front and Rear of a Queue:**
+
+- **Front**: The **front** of the queue is where the first item is. When we perform a **dequeue** operation, we remove the item from the front.
+- **Rear**: The **rear** of the queue is where new items are added. When we perform an **enqueue** operation, we add an item to the rear.
+
+This means that the **front** is where items are removed, and the **rear** is where items are added, maintaining the FIFO (First In, First Out) rule.
+
+---
+
 
 ### **What Can You Do with a Queue?**
 A queue has several actions you can perform:
