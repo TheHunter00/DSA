@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/22f1281a-5c5c-4a79-b1c4-606079dae214)
 
 
 # Big O Notation 
@@ -164,6 +165,9 @@ Here’s a simple table comparing how fast each Big O grows:
 | **O(n³)**       | Grows very fast  | Triple nested loops                |
 | **O(2^n)**      | Doubles every time | Brute-force solutions             |
 | **O(n!)**       | Grows extremely fast | Arranging all items              |
+
+
+![image](https://github.com/user-attachments/assets/2c4c2a86-f091-4f81-ac3c-bafa9d2c3a91)
 
 ---
 
