@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/e7e21031-1a5e-4350-82a5-2b9b1d7c54aa)
 ### **What is a Stack?**  
 A **stack** is a way to organize data. It is like a real-life stack of plates or books. You can add items to the top of the stack, and you can take items from the top of the stack.  
 
