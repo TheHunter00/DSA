@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2bd72cc1-fb38-4b1b-8abd-27be3f5ecc1c)
 ### **What is a Data Structure?**  
 A data structure is a way to organize data so that we can use it easily. There are two types of data structures: **Linear** and **Nonlinear**.
 
